@@ -1,4 +1,6 @@
 # BookHub - Book Management API
+<img width="1358" height="714" alt="Screenshot 2025-08-09 155540" src="https://github.com/user-attachments/assets/22aa9044-9523-47a4-8495-81a8943b67a8" />
+
 
 A Django REST API for managing book collections with full CRUD functionality.
 
